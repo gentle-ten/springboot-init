@@ -1,0 +1,9 @@
+Swagger          ：http://localhost:8080/api/doc.html#/home
+Swagger UI       ：http://localhost:8080/api/swagger-ui/index.html
+Swagger JSON API ：http://localhost:8080/api/v3/api-docs
+             ,,,   ,|,                         ,,,
+             ,|||  ||'                         '|||     ,,,|||,
+            |||  ,||'  ,,|||,                  ,||  '|||'''|||'
+          ,||'  ,|'||||' ,|||'                 ||',,,    ,||'
+         ,||||  '    ||  ''                   ,||||||    |||,,||
+
