@@ -18,5 +18,3 @@ Swagger JSON API：http://localhost:8080/api/v3/api-docs
 - pro-128k 指向 Pro-128K 版本； 
 - generalv3.5 指向 Max 版本； 
 - 4.0Ultra 指向 4.0 Ultra 版本；
-
-test 测试分支保护是否生效
